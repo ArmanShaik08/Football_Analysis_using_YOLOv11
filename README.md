@@ -46,8 +46,8 @@ This project enables:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/arpitchauhan2002/Football-Analysis-System-Using-YOLO11.git
-cd Football-Analysis-System-Using-YOLO11
+[git clone https://github.com/ArmanShaik08/Football_Analysis_using_YOLOv11.git
+cd Football_Analysis_System_Using_YOLO11]()
 ```
 ### 2️⃣ Create and Activate Virtual Environment (Recommended)
 
